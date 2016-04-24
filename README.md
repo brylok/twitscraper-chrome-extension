@@ -1,6 +1,6 @@
 # GramGrabber Chrome Extension
 
-To install:
+## To install:
 
 - Download and Unzip the Zip file from Github
 
@@ -11,8 +11,7 @@ To install:
 - Select the folder you extracted in the previous step.
 
 
-
- To use:
+## To use:
 
  - Visit the Twitter hashtag page you want (example:https://twitter.com/hashtag/travel)
 
