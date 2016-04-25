@@ -1,4 +1,4 @@
-# GramGrabber Chrome Extension
+# TwitScraper Chrome Extension
 
 ## To install:
 
